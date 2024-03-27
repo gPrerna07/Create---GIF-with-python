@@ -5,11 +5,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Animated GIF Tool</title>
-  <style>
-    <h2> { font-size: 24px; color: #333; margin-bottom: 10px; }</h2>
-    <h3> { font-size: 20px; color: #666; margin-bottom: 5px; }</h3>
-    <p> { font-size: 16px; color: #444; }</p>
-  </style>
 </head>
 <body>
   <div>
